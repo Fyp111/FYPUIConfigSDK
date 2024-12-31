@@ -1,7 +1,7 @@
 # FYPUIConfigSDK.podspec
 Pod::Spec.new do |s|
     s.name         = 'FYPUIConfigSDK'
-    s.version      = '1.0' # 使用适当的版本号
+    s.version      = '0.1.0' # 使用适当的版本号
     s.summary      = '用数据驱动配置一个 tabbarcontroller  navigationcontroller 的app'
     s.description  = <<-DESC
                      FYPUIConfigSDK is a library that provides ...
