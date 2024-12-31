@@ -10,13 +10,13 @@ Pod::Spec.new do |s|
     s.author       = { 'Fyp111' => '1938467294@qq.com' } 
     s.source       = { :git => 'https://github.com/Fyp111/FYPUIConfigSDK.git', :tag => s.version.to_s }
     s.platform     = :ios, '13.0' 
-    s.source_files = 'FYPUIConfigSDK/Package.swift' ,
-                     'FYPUIConfigSDK/Sources/FYPUIConfigSDK/AppConfig.swift' ,
-                     'FYPUIConfigSDK/Sources/FYPUIConfigSDK/FYPAppConfigurator.swift' ,
-                     'FYPUIConfigSDK/Sources/FYPUIConfigSDK/FYPBaseNavigationController.swift' ,
-                     'FYPUIConfigSDK/Sources/FYPUIConfigSDK/FYPBaseTabbarController.swift' ,
-                     'FYPUIConfigSDK/Sources/FYPUIConfigSDK/FYPBaseViewController.swift' ,
-                     'FYPUIConfigSDK/Sources/FYPUIConfigSDK/FYPUIConfigSDK.swift'
+    s.source_files = 'Package.swift' ,
+                     'Sources/FYPUIConfigSDK/AppConfig.swift' ,
+                     'Sources/FYPUIConfigSDK/FYPAppConfigurator.swift' ,
+                     'Sources/FYPUIConfigSDK/FYPBaseNavigationController.swift' ,
+                     'Sources/FYPUIConfigSDK/FYPBaseTabbarController.swift' ,
+                     'Sources/FYPUIConfigSDK/FYPBaseViewController.swift' ,
+                     'Sources/FYPUIConfigSDK/FYPUIConfigSDK.swift'
     s.swift_version = '5.0' 
 
   end
