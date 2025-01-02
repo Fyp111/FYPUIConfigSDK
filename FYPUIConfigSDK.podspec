@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
     s.name         = 'FYPUIConfigSDK'
     s.version      = '1.0' 
-    s.summary      = ' tabbarcontroller  navigationcontroller app'
+    s.summary      = ' config app'
     s.description  = <<-DESC
                      tabbarcontroller  navigationcontroller app
                      DESC

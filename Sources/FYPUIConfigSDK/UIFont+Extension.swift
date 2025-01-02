@@ -13,7 +13,7 @@ public extension UIFont {
         let scaledFontSize = FontScaler.scaledFontSize(for: baseFontSize)
         
         var fixfontName = fontName
-        if fixfontName == nil || fixfontName == "" {
+        if fixfontName == "" {
             fixfontName = "PingFangSC-Regular"
         }
         
