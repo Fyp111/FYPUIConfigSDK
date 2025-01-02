@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
     s.name         = 'FYPUIConfigSDK'
     s.version      = '1.0' 
-    s.summary      = '用数据驱动配置一个 tabbarcontroller  navigationcontroller 的app'
+    s.summary      = ' tabbarcontroller  navigationcontroller app'
     s.description  = <<-DESC
-                     FYPUIConfigSDK is a library that provides ...
+                     tabbarcontroller  navigationcontroller app
                      DESC
     s.homepage     = 'https://github.com/Fyp111/FYPUIConfigSDK'
     s.license      = { :type => 'MIT', :file => 'LICENSE' } 
